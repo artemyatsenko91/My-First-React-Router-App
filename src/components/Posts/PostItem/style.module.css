@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+}
+
+.post-item {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(172, 218, 202);
+}
+
+.btn {
+    font-size: 18px;
+    color: red;
+    padding: 5px;
+    cursor: pointer;
+}

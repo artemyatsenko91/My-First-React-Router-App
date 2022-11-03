@@ -1,0 +1,13 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(172, 218, 202);
+    margin-top: 10px;
+}
+
+.btn {
+    font-size: 18px;
+    color: red;
+    padding: 5px;
+    cursor: pointer;
+}
